@@ -1,0 +1,33 @@
+
+td.multi{
+    background-color:#193e4d;
+    color: #fff ;
+    font-size: 20px;
+    border: 3px solid black;
+}
+
+
+.design{
+    width: 50px;
+    height: 50px;
+    border: 1px dashed black;
+    text-align: center;
+    vertical-align: center;
+    background-color: #2b8eb5;
+    transition: 0.2s;
+}
+.onWrite {
+    width: 50px;
+    height: 50px;
+    text-align: center;
+    vertical-align: center;
+    background-color: #2b8eb5;
+    transition: 0.2s;
+    border: none;
+
+}
+
+
+.design:hover{
+background-color: #1b5870;
+}
